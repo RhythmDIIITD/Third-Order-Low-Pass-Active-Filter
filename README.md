@@ -1,6 +1,5 @@
 # Third-Order-Low-Pass-Active-Filter
 
-# Third-Order Low-Pass Active Filter – PCB Design
 
 A **Third-Order Low-Pass Active Filter** with a cutoff frequency of **1 kHz** and a **roll-off of -60 dB/decade**.  
 The filter combines a **first-order active low-pass filter** with a **second-order Sallen-Key stage** and supports **adjustable gain up to 12 dB** via a potentiometer.

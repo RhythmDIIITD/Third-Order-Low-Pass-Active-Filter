@@ -32,18 +32,4 @@ The filter combines a **first-order active low-pass filter** with a **second-ord
 
 ---
 
-## Media
-
-![Final PCB](Images/PCB_final.jpg)  
-*Final fabricated PCB.*
-
-![KiCad Schematic](Images/Schematic.jpg)  
-*Circuit schematic in KiCad.*
-
-![KiCad 3D View](Images/KiCad_3D.jpg)  
-*3D visualization of the PCB.*
-
----
-
-## Folder Structure
 
